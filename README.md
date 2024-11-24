@@ -1,5 +1,4 @@
-The project talks about 
-Uploading content and the option to change it at any time and sharing information with other people
+The project talks about a website for a beginning makeup artist who wants to advertise herself to the public, and there she actually uploads her work and tells about herself, and there is a possibility to be in touch with her regarding booking appointments or other inquiries
 <h1 align="center">Hi 👋, I'm yosef palas</h1>
 <h3 align="center">i am fullstack developer</h3>
 
