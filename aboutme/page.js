@@ -46,7 +46,7 @@ export default function AboutMePage() {
             whileHover={{ y: -8 }}
             transition={{ type: "spring", stiffness: 500 }}
           >
-            <Image src={logo2} alt="A crowd of people, cooking" />
+            <Image src={logo2} alt="A crowd of people, cooking" priority />
             <p>An event makeup artist adds sparkle to every special moment.</p>
           </motion.li>
           <br></br>
@@ -55,7 +55,11 @@ export default function AboutMePage() {
             whileHover={{ y: -8 }}
             transition={{ type: "spring", stiffness: 500 }}
           >
-            <Image src={logo3} alt="A crowd of people at a cooking event" />
+            <Image
+              src={logo3}
+              alt="A crowd of people at a cooking event"
+              priority
+            />
             <p>Specialist in permanent makeup for a perfect look 24/7.</p>
           </motion.li>
         </ul>
